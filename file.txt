@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Welcome to FSD
+=======
+Hello world
+>>>>>>> origin/main
